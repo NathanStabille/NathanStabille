@@ -21,5 +21,5 @@ I am an enthusiast in the world of technology and passionate about programming, 
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <div>
     
-  ![Snake animation](https://github.com/NathanStabille)
+  ![Snake animation](https://github.com/NathanStabille/NathanStabille/blob/output/github-contribution-grid-snake.svg)
     
