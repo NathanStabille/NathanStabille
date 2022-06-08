@@ -23,3 +23,6 @@ I am an enthusiast in the world of technology and passionate about programming, 
     
   ![Snake animation](https://github.com/NathanStabille/NathanStabille/blob/output/github-contribution-grid-snake.svg)
     
+
+  <a href="https://www.instagram.com/nathanstabille" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathan-stabille" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
