@@ -1,5 +1,5 @@
 ### Hi there, i am Nathan!
-I am an enthusiast in the world of technology and passionate about programming, always looking for new challenges.
+I am an enthusiast in the world of technology and passionate about programming, always looking for new challenges.🧑‍💻
 
 ##
 
