@@ -6,7 +6,7 @@ I am an enthusiast in the world of technology and passionate about programming, 
 
 <div align="center">
 <a href="https://github.com/NathanStabille">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanStabille&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NathanStabille&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanStabille&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 </div>
