@@ -2,19 +2,12 @@
   <img height="200" src="https://raw.githubusercontent.com/NathanStabille/NathanStabille/refs/heads/main/githubIMG/Frame%2013919.png"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h1 align="left">Hi there, i am Nathan!</h1>
 
-###
-
-<br clear="both">
-
 <h4 align="left">I am an enthusiast in the world of technology and passionate about programming, always looking for new challenges.🧑‍💻</h4>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -32,25 +25,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NathanStabille&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=NathanStabille&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanStabille&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/nathanstabille/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/nathan-stabille/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 ![snake_gif](https://github.com/NathanStabille/NathanStabille/blob/output/github-snake-dark.svg)
 
