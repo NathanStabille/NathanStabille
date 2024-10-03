@@ -21,4 +21,5 @@ I am an enthusiast in the world of technology and passionate about programming, 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# ![snake gif](https://github.com/NathanStabille/NathanStabille/blob/output/github-contribution-grid-snake.gif)
+![snake_gif](https://github.com/NathanStabille/NathanStabille/blob/output/github-snake-dark.svg)
+
