@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/NathanStabille/NathanStabille/refs/heads/main/githubIMG/BG-DARK.png"  />
-</div>
+
 
 <br clear="both">
 
