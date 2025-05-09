@@ -1,7 +1,3 @@
-
-
-<br clear="both">
-
 <h1 align="left">Hi there, i am Nathan!</h1>
 
 <h3 align="left">I am an enthusiast in the world of technology and passionate about programming, always looking for new challenges.🧑‍💻</h3>
